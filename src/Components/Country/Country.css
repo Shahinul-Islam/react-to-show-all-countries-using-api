@@ -1,0 +1,9 @@
+.display-countries {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: "60px";
+}
+.display-countries img {
+  height: 80px;
+  width: 120px;
+}
